@@ -1,4 +1,9 @@
 **/cmip6/*
-**/automl-PCDUpperHuttCURo5DtAtIqy5-001-28e10680/*
-**automl-PCDUpperHuttCURo5DtAtIqy5*
 /*.csv*
+**data/processed*
+**data/.ipynb_checkpoints*
+**/models*
+**/results*
+**ipynb_checkpoints*
+**catboost_info*
+*.pkl

@@ -1,0 +1,12 @@
+boto3
+sagemaker
+pandas
+numpy
+s3fs
+holidays
+scikit-learn
+xgboost
+catboost
+statsmodels
+matplotlib
+seaborn
